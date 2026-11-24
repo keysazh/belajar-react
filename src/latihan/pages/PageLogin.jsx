@@ -1,6 +1,6 @@
 import React from "react";
 import TemplateCenter from "../templates/TemplateCenter";
-import OrganismLoginPanel from "../organisms/OrganismRegisterPanel";
+import OrganismLoginPanel from "../organism/OrganismLoginFormPanel";
 
 const PageLogin = () => {
   return (

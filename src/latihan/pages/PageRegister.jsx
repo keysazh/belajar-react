@@ -1,6 +1,6 @@
 import React from "react";
 import TemplateCenter from "../templates/TemplateCenter";
-import OrganismRegisterPanel from "../organisms/OrganismRegisterPanel";
+import OrganismRegisterPanel from "../organism/OrganismRegisterPanel";
 
 const PageRegister = () => {
   return (
@@ -11,4 +11,3 @@ const PageRegister = () => {
 };
 
 export default PageRegister;
-    

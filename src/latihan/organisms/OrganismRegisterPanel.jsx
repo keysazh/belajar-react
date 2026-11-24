@@ -23,7 +23,11 @@ const OrganismRegisterPanel = () => {
         <br />
         <MoleculeFormField id="password" label="Password" type="password" />
         <br />
-        <MoleculeFormField id="confirmPassword" label="Confirm Password" type="password" />
+        <MoleculeFormField
+          id="confirmPassword"
+          label="Confirm Password"
+          type="password"
+        />
         <br />
         <AtomButton type="submit" variant="primary">
           Register
